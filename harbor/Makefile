@@ -1,0 +1,3 @@
+build:
+	cd ../views; npm run build
+	go generate -v ./...

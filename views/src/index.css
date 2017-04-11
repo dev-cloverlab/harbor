@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.LeftCol {
+  position: relative;
+  float: left;
+  width: 20%;
+  text-align: left;
+}
+
+.Menu ul {
+	list-style-type:none;
+}
+
+.Projects ul {
+	list-style-type:none;
+}
+
+.Projects ul li {
+	display: inline-block;
+	margin-left: 10px;
+}
+
+.RightCol {
+  position: relative;
+  float: left;
+  width: 80%;
+  text-align: left;
+}
+
+.Detail ul {
+	list-style-type:none;
+}
+
+.Branch ul li {
+	display: inline-block;
+	margin-left: 10px;
+}
+
+
